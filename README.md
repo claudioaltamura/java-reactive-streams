@@ -1,2 +1,2 @@
-# java-reactive-streams
-java reactive streams examples
+# java-reactive
+java reactive examples
